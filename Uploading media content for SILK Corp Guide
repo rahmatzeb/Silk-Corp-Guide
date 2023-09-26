@@ -1,0 +1,17 @@
+Updating media content on Git Hub
+1.	Go to forked repository
+2.	Select gh pages branch
+3.	Sync it, update the branch if it’s out of date
+4.	Resize picture on Pixler.
+5.	Save it, naming it without spaces though I can use “- “.
+6.	Upload picture
+7.	Save with proper narration
+8.	Add a description
+9.	Create a new branch for this commit and start a pull request
+10.	Comparing changes
+11.	Click Base repository as “NoteHive/SILK-Corp Guide
+12.	Click base repository as “gh paages”
+13.	Click head repository as “rahmatzeb/SILK Corp Guide”
+14.	Click compare as “rahmatzeb patch-” 
+15.	Update source name in the html.file, keeping the same name
+16.	Commit changes and make a pull request
